@@ -1,0 +1,9 @@
+.user{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+}
+p{
+    background-color: gray;
+    color: white;
+}
