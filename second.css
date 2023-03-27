@@ -1,0 +1,30 @@
+html{
+    background-color: black;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    color: white;
+}
+
+#residents{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+    justify-content: space-around;
+}
+.resCard{
+    color: white;
+    background-color: gray;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid whitesmoke;
+    width: 20%;
+    margin-bottom: 4rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
